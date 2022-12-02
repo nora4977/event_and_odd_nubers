@@ -11,4 +11,5 @@ d=var_int//1000%10
 sum_even=0
 #Find the sum of the odd digits in the variable "var_int".
 sum_even=((a+0)%2*a)+((b+0)%2*b)+((c+0)%2*c)+((d+0)%2*d)
+
 print(sum_even)
